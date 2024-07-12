@@ -13,3 +13,4 @@ Coming Soon
 - Hold down the "CLEAR" key while you put the battery back in. 
 - Turn the calculator on while holding down the "CLEAR" key and then release the key.
 - If this does not resurrect the calculator, repeat this same process while holding down the "DELETE" key.
+- Or you can just throw away the calculator and buy a phone like a normal person
